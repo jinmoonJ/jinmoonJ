@@ -1,6 +1,15 @@
-## 🙋🏻‍♂️ ABOUT ME 🙋🏻‍♂️
+<div align='center'> 
+  
+# 🙋🏻‍♂️ ABOUT ME 🙋🏻‍♂️
 
-안녕하세요! 신입 개발자 장진문 입니다.😄😄
+   안녕하세요! 신입 개발자 <b>장진문</b> 입니다.😄😄 <br>
+  
+  <p>
+    <b>📌 프론트 & 안드로이드 개발 📌</b>
+  </p>
+  <p>
+    프론트 개발자 공부를 하고<br>
+  </p>
 
 ## 🔥 SKILLS & 🛠 TOOLS
 
@@ -15,3 +24,5 @@
 
 ### TOOLS
 <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/> 
+ 
+</div>
