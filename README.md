@@ -1,6 +1,6 @@
 <div align='center'> 
   
-## 🙋🏻‍♂️ ABOUT ME 🙋🏻‍♂️
+# 🙋🏻‍♂️ ABOUT ME 🙋🏻‍♂️
 
    안녕하세요! 신입 개발자 <b>장진문</b> 입니다.😄😄 <br>
   
