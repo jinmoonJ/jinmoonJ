@@ -24,8 +24,8 @@
 ### 🎮 Unity
 <img src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat&logo=Unity&logoColor=white"/>
 
-### 🛠 TOOLS
-<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/> 
+### 🛠 Tools
+<img src="https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira&logoColor=white"/> <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"/> <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
  ---
 <b>
 <div align='center'> 📔 Notion : <a href="https://www.notion.so/IT-671eb01a224e4903bf10e8a2de5e2b1f">Portfolio</a></div>
