@@ -47,6 +47,4 @@
     </div>
   </b>
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinmoonJ&layout=compact&theme=tokyonight"> 	<img src="https://github-readme-stats.vercel.app/api?username=JinmoonJ&show_icons=true&theme=tokyonight">
-  
 </div>
