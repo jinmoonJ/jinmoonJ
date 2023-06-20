@@ -40,7 +40,10 @@
   ---
   <b>
     <div align='center'>
-      📔 Notion : <a href="https://www.notion.so/IT-671eb01a224e4903bf10e8a2de5e2b1f">Portfolio</a>
+      📜 Portfolio : <a href="https://jasper-bagel-e14.notion.site/IT-Portfolio-686647c644af4361acc8bece62dfebc1?pvs=4">PDF</a>
+    </div>
+    <div align='center'>
+      📔 Portfolio : <a href="https://jasper-bagel-e14.notion.site/IT-671eb01a224e4903bf10e8a2de5e2b1f?pvs=4">Notion</a>
     </div>
     <div align='center'>
       ✉️ Email : jjm12612@gmail.com
